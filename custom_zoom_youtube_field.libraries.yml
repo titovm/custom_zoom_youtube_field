@@ -1,0 +1,12 @@
+custom_modals:
+  version: 1.0
+  js:
+    js/custom_modals.js:
+      attributes: {}
+  css:
+    theme:
+      css/custom_modals.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupal.dialog

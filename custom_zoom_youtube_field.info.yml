@@ -1,0 +1,8 @@
+name: 'Custom Zoom and YouTube Field'
+type: module
+description: 'A module to add a field with Zoom and optional YouTube links.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:field
+  - drupal:node
